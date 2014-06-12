@@ -4,5 +4,5 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.add_files('lib/js/bootstrap-datepicker.js', 'client');
-  api.add_files('lib/css/datepicker.css', 'client');
+  api.add_files('lib/css/datepicker3.css', 'client');
 });
